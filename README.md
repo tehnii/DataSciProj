@@ -14,7 +14,7 @@ Please view the source code in order from:
 
 - @xyau001 - Mainly EDA and Kmeans 
 - @yann0011 - Slide/Video & Github
-- @
+- @myeo017 - Hierachical Clustering and Slides
 
 ## Problem Definition
 
