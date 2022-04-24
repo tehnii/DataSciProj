@@ -12,8 +12,8 @@ Please view the source code in order from:
   
 ## Contributors
 
-- @xyau001 - Mainly EDA and Kmeans
-- @
+- @xyau001 - Mainly EDA and Kmeans 
+- @yann0011 - Slide/Video & Github
 - @
 
 ## Problem Definition
